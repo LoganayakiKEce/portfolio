@@ -322,6 +322,7 @@ section:nth-child(2n + 1) {
 
 #contact-form {
   margin-left: 20%;
+  margin-bottom: 5%;
 }
 
 #contact-container {
@@ -376,7 +377,7 @@ textarea {
   padding: 4px 10px;
   border: 0px solid transparent;
   border-bottom: 2px solid white;
-  color: #d9dcdd;
+  color: black;
   background: transparent;
   width: 90%;
   line-height: 1.6;
@@ -384,7 +385,7 @@ textarea {
 }
 
 #contact-form button[type="submit"] {
-  background: transparent;
+  background-color: gray;
   font-size: 0.95rem;
   border: 2px solid white;
   margin-top: 5%;
